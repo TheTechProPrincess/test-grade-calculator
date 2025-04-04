@@ -11,7 +11,7 @@ Perfect if you want to pretend your lowest grade didn’t happen (just like real
 
 ---
 
-## How It Works (In Plain English)
+## How It Works
 
 1. You type in 3 test scores (like 78, 92, and 88).
 2. The program checks that each number is between 0 and 100.
